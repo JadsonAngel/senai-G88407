@@ -1,5 +1,5 @@
 # Variáveis
-nome = "Eric"
+nome = "Jadson"
 idade = 19
 altura = 1.90
 estudante = True
