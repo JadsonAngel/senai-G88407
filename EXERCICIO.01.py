@@ -1,7 +1,7 @@
 # Variáveis
 nome = "Jadson"
-idade = 19
-altura = 1.90
+idade = 21
+altura = 1.75
 estudante = True
 
 # Tipos de variáveis
